@@ -1,4 +1,4 @@
-[![Azcobu's GitHub stats](https://github-readme-stats.vercel.app/api?username=azcobu)](https://github.com/anuraghazra/github-readme-stats)
+[![Azcobu's GitHub stats](https://github-readme-stats.vercel.app/api?username=azcobu&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
